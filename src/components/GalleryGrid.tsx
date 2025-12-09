@@ -68,14 +68,7 @@ const galleryItems = [
         desc: "3D yazıcılarla üretim süreci."
     },
 
-    {
-        id: 10,
-        category: "workshop",
-        src: "https://i.hizliresim.com/8u9r03m.jpg",
-        alt: "Filament hazırlığı",
-        title: "Hazırlık",
-        desc: "Geri dönüştürülmüş materyallerin hazırlanması."
-    },
+
 
     {
         id: 12,
@@ -85,14 +78,16 @@ const galleryItems = [
         title: "Kontrol",
         desc: "Üretilen parçaların kontrolü."
     },
+
     {
         id: 13,
         category: "workshop",
-        src: "https://i.hizliresim.com/g8to3rn.jpg",
-        alt: "Son teknoloji yazıcılar",
-        title: "Teknoloji",
-        desc: "Yüksek hassasiyetli üretim."
-    }
+        src: "https://i.hizliresim.com/khphzln.jpg",
+        alt: "Atölye",
+        title: "Atölye",
+        desc: "Atölye çalışmaları."
+    },
+
 ];
 
 const categories = [

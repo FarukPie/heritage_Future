@@ -7,7 +7,7 @@ const teamMembers = [
     {
         name: "Kadir Altun",
         role: "Proje Ekibi",
-        image: "https://i.hizliresim.com/3t2t1mn.jpg"
+        image: "https://placehold.co/400x400/D2691E/FFF?text=KA"
     },
     {
         name: "Edanur Yiğit",
