@@ -2,8 +2,6 @@
 
 import { motion } from "framer-motion";
 import { useState } from "react";
-import Image from "next/image";
-
 const galleryItems = [
     {
         id: 1,

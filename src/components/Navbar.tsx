@@ -1,24 +1,23 @@
 "use client";
 
-import { motion } from "framer-motion";
-import { Menu, X } from "lucide-react";
-import { useState } from "react";
+import Link from "next/link";
 
 export default function Navbar() {
-    const [isOpen, setIsOpen] = useState(false);
+    // Mobile menu state removed as it was unused and empty
+
 
     return (
         <nav className="fixed top-0 left-0 right-0 z-50 bg-white/80 dark:bg-neutral-950/80 backdrop-blur-md border-b border-neutral-200 dark:border-white/10">
             <div className="container mx-auto px-6 py-4 flex items-center justify-between">
                 {/* Logo */}
-                <a href="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
+                <Link href="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
                     <div className="w-8 h-8 bg-primary-turquoise rounded-lg flex items-center justify-center text-white font-bold">
                         H
                     </div>
                     <span className="text-xl font-bold tracking-tight text-foreground">
                         Heritage<span className="text-primary-turquoise">&</span>Future
                     </span>
-                </a>
+                </Link>
 
                 {/* Desktop Menu - Empty now */}
                 <div className="hidden md:flex items-center gap-8">

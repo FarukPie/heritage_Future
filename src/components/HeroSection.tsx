@@ -32,7 +32,7 @@ export default function HeroSection() {
                         </span>
                     </h1>
                     <p className="text-xl text-neutral-600 dark:text-neutral-300 max-w-lg leading-relaxed">
-                        Side Antik Kenti'nden toplanan plastik atıkları, üniversite laboratuvarlarında dönüştürüyor ve 3D yazıcılarla çocuklara ürün olarak yeniden hayat veriyoruz.
+                        Side Antik Kenti&apos;nden toplanan plastik atıkları, üniversite laboratuvarlarında dönüştürüyor ve 3D yazıcılarla çocuklara ürün olarak yeniden hayat veriyoruz.
                     </p>
 
                     <div className="flex flex-wrap gap-4">

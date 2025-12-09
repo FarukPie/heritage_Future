@@ -11,7 +11,7 @@ export default function GalleryPage() {
                     Proje <span className="text-transparent bg-clip-text bg-linear-to-r from-primary-turquoise to-secondary-sand">Galerisi</span>
                 </h1>
                 <p className="text-lg text-neutral-600 dark:text-neutral-400 max-w-2xl mx-auto">
-                    Side Antik Kenti'nden laboratuvara, oradan da çocukların gülümsemesine uzanan yolculuğumuzdan kareler.
+                    Side Antik Kenti&apos;nden laboratuvara, oradan da çocukların gülümsemesine uzanan yolculuğumuzdan kareler.
                 </p>
             </div>
 
