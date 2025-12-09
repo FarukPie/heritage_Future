@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ⚡ Heritage And Future | Next-Gen Web Deneyimi
 
-## Getting Started
+Bu proje, web geliştirme dünyasının en yeni standartlarını belirleyen teknolojilerle (**Next.js 16, React 19, Tailwind v4**) geliştirilmiş, yüksek performanslı ve modern bir web uygulamasıdır.
 
-First, run the development server:
+Geleceğin web mimarisini bugünden deneyimlemek amacıyla en güncel (Preview/Beta) sürümler üzerine inşa edilmiştir.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Teknoloji Yığını (Tech Stack)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Proje altyapısında hız, performans ve en iyi geliştirici deneyimi (DX) hedeflenmiştir.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 🏗️ Core & Framework
+* **Next.js 16 (App Router):** En yeni Next.js mimarisi, Server Components (RSC) ve gelişmiş önbellekleme stratejileri.
+* **React 19:** React ekosisteminin en son sürümü; yeni hook'lar ve derleyici (compiler) optimizasyonları.
+* **TypeScript:** Tip güvenliği (Type-safety) ile hatasız ve ölçeklenebilir kod yapısı.
 
-## Learn More
+### 🎨 UI & Design System
+* **Tailwind CSS v4:** Yeni nesil "Oxide" motoru ile ultra hızlı derleme ve modern CSS özellikleri.
+* **Framer Motion:** Akıcı, fizik tabanlı ve yüksek performanslı animasyon kütüphanesi.
+* **Lucide React:** Modern, temiz ve hafif ikon seti.
+* **Clsx & Tailwind Merge:** Dinamik sınıf yönetimi ve stil çakışmalarını (conflict) önlemek için yardımcı araçlar.
 
-To learn more about Next.js, take a look at the following resources:
+### 🛡️ Kod Kalitesi
+* **ESLint:** Sıkı kod standartları ve statik analiz ile temiz kod garantisi.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ✨ Öne Çıkan Özellikler
 
-## Deploy on Vercel
+* 🚀 **Bleeding Edge:** React ve Next.js'in en son özelliklerinin (Server Actions, Suspense vb.) aktif kullanımı.
+* 💎 **Modern UI:** Tailwind v4 ile tasarlanmış, Framer Motion ile canlandırılmış şık arayüzler.
+* 📱 **Tam Duyarlı (Responsive):** Her cihazda kusursuz görünüm.
+* ⚡ **Maksimum Performans:** App Router yapısı sayesinde optimize edilmiş yükleme süreleri.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
+## Ekran Görüntüleri
+<img width="1912" height="2077" alt="screencapture-localhost-3000-2025-12-08-20_01_20" src="https://github.com/user-attachments/assets/8341cbb5-60c9-4a20-b49d-cf862fb6f69f" />
+<img width="1912" height="1520" alt="screencapture-localhost-3000-gallery-2025-12-08-20_01_40" src="https://github.com/user-attachments/assets/abaf5865-e336-4f95-a564-2b1a654af74b" />
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+---
+
+## ⚙️ Kurulum ve Çalıştırma
+
+Bu proje en yeni paket sürümlerini kullandığından, Node.js sürümünüzün güncel (v20+) olduğundan emin olun.
+
+1.  **Repoyu Klonlayın:**
+    ```bash
+    git clone [https://github.com/kullaniciadi/proje-ismi.git](https://github.com/kullaniciadi/proje-ismi.git)
+    cd proje-ismi
+    ```
+
+2.  **Paketleri Yükleyin:**
+    ```bash
+    npm install
+    # veya
+    yarn install
+    ```
+
+3.  **Geliştirme Sunucusunu Başlatın:**
+    ```bash
+    npm run dev
+    ```
+
+Tarayıcınızda `http://localhost:3000` adresine giderek projeyi görüntüleyebilirsiniz.
+
+---
+
+## 📄 Lisans
+
+Bu proje [MIT](LICENSE) lisansı ile lisanslanmıştır.
