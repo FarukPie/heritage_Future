@@ -7,47 +7,47 @@ const teamMembers = [
     {
         name: "Kadir Altun",
         role: "Proje Ekibi",
-        image: "https://placehold.co/400x400/D2691E/FFF?text=KA"
+        image: "https://placehold.co/400x400/D2691E/FFF?text=Kadir Altun"
     },
     {
         name: "Edanur Yiğit",
         role: "Proje Ekibi",
-        image: "https://placehold.co/400x400/D2691E/FFF?text=EY"
+        image: "https://placehold.co/400x400/D2691E/FFF?text=Edanur Yiğit"
     },
     {
         name: "Hüseyin Cem Yoldaş",
         role: "Proje Ekibi",
-        image: "https://placehold.co/400x400/E6BE8A/FFF?text=HY"
+        image: "https://placehold.co/400x400/E6BE8A/FFF?text=Hüseyin Cem Yoldaş"
     },
     {
         name: "Berke Doğan Güngör",
         role: "Proje Ekibi",
-        image: "https://placehold.co/400x400/008B8B/FFF?text=BG"
+        image: "https://placehold.co/400x400/008B8B/FFF?text=Berke Doğan Güngör"
     },
     {
         name: "Münire Rana Bozkurt",
         role: "Proje Ekibi",
-        image: "https://placehold.co/400x400/D2691E/FFF?text=MB"
+        image: "https://placehold.co/400x400/D2691E/FFF?text=Münire Rana Bozkurt"
     },
     {
         name: "Özdenur Çolak",
         role: "Proje Ekibi",
-        image: "https://placehold.co/400x400/E6BE8A/FFF?text=ÖÇ"
+        image: "https://placehold.co/400x400/E6BE8A/FFF?text=Özdenur Çolak"
     },
     {
         name: "Mustafa Uğur Sağlam",
         role: "Proje Ekibi",
-        image: "https://placehold.co/400x400/008B8B/FFF?text=MS"
+        image: "https://placehold.co/400x400/008B8B/FFF?text=Mustafa Uğur Sağlam"
     },
     {
         name: "Yunus Emre Durgun",
         role: "Proje Ekibi",
-        image: "https://placehold.co/400x400/D2691E/FFF?text=YD"
+        image: "https://placehold.co/400x400/D2691E/FFF?text=Yunus Emre Durgun"
     },
     {
         name: "Rabia Sapan",
         role: "Proje Ekibi",
-        image: "https://placehold.co/400x400/E6BE8A/FFF?text=RS"
+        image: "https://placehold.co/400x400/E6BE8A/FFF?text=Rabia Sapan"
     }
 ];
 
