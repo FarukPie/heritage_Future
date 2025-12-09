@@ -46,7 +46,7 @@ const galleryItems = [
     {
         id: 6,
         category: "field_work",
-        src: "https://i.hizliresim.com/iqrewv2.jpg",
+        src: "https://i.hizliresim.com/6w8kk09.jpg",
         alt: "Proje sunumu",
         title: "Sunum",
         desc: "Proje çıktılarının değerlendirilmesi."
@@ -58,6 +58,14 @@ const galleryItems = [
         alt: "Genel etkinlik",
         title: "Etkinlik Anı",
         desc: "Proje sürecinden renkli kareler."
+    },
+    {
+        id: 14,
+        category: "field_work",
+        src: "https://i.hizliresim.com/douxqrx.jpg",
+        alt: "Saha çalışması",
+        title: "Saha Çalışması",
+        desc: "Proje çalışmalarından kareler."
     },
     {
         id: 8,
