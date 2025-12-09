@@ -40,12 +40,14 @@ export default function HeroSection() {
                             Harekete Katıl
                             <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
                         </a>
-                        <button
-                            onClick={() => document.getElementById('features')?.scrollIntoView({ behavior: 'smooth' })}
+                        <a
+                            href="https://docs.google.com/forms/d/1wLuB8jTljT8W0tQ2R-lwjA4kfHmKhYH1mnn2u_3ddoA/edit"
+                            target="_blank"
+                            rel="noopener noreferrer"
                             className="px-8 py-4 bg-white dark:bg-white/10 border border-neutral-200 dark:border-white/10 hover:bg-neutral-50 dark:hover:bg-white/20 text-foreground rounded-full font-semibold transition-all backdrop-blur-sm"
                         >
-                            Süreci Keşfet
-                        </button>
+                            Anketimize Katılın
+                        </a>
                     </div>
                 </motion.div>
 
