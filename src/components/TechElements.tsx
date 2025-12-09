@@ -16,7 +16,7 @@ export default function TechElements() {
                         <span className="text-primary-turquoise">Yeniden Üretim.</span>
                     </h2>
                     <p className="text-lg text-neutral-600 dark:text-neutral-300">
-                        Atık plastikleri yüksek kaliteli 3D yazıcı filamentine dönüştürüyoruz. Her 1kg plastik atık, yaklaşık 20 adet eğitici oyuncak parçasına dönüşüyor.
+                        Atık plastikleri yüksek kaliteli 3D yazıcı filamentine dönüştürüyoruz. Her 1kg plastik atık, yaklaşık 20 adet eğitici ürün parçasına dönüşüyor.
                     </p>
 
                     <div className="space-y-6">
@@ -38,7 +38,7 @@ export default function TechElements() {
 
                         <div className="space-y-2">
                             <div className="flex justify-between text-sm font-medium">
-                                <span>Basılan Oyuncak</span>
+                                <span>Basılan Ürün</span>
                                 <span className="text-secondary-terra">840 Adet</span>
                             </div>
                             <div className="h-3 bg-neutral-100 dark:bg-neutral-800 rounded-full overflow-hidden">

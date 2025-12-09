@@ -22,8 +22,8 @@ const features = [
     },
     {
         icon: <Box className="w-8 h-8 text-secondary-terra" />,
-        title: "Oyuncak Üretimi",
-        description: "Geri dönüştürülmüş filamentlerle eğitici oyuncaklar basıp ihtiyacı olan çocuklara ulaştırıyoruz.",
+        title: "Ürün Üretimi",
+        description: "Geri dönüştürülmüş filamentlerle eğitici ürünler basıp ihtiyacı olan çocuklara ulaştırıyoruz.",
         color: "bg-secondary-terra/10",
         borderColor: "border-secondary-terra/20",
         step: "03"

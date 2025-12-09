@@ -17,12 +17,7 @@ export default function GalleryPage() {
 
             <GalleryGrid />
 
-            {/* Footer Placeholder */}
-            <footer className="py-12 bg-neutral-100 dark:bg-neutral-900 border-t border-neutral-200 dark:border-neutral-800 mt-12">
-                <div className="container mx-auto px-6 text-center text-neutral-500 text-sm">
-                    <p>&copy; {new Date().getFullYear()} Heritage & Future. Tüm hakları saklıdır.</p>
-                </div>
-            </footer>
+
         </main>
     );
 }

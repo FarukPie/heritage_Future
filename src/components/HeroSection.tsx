@@ -26,13 +26,13 @@ export default function HeroSection() {
                     </div>
 
                     <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-foreground">
-                        Tarihi Koru, <br />
+                        Tarihe Saygı <br />
                         <span className="text-transparent bg-clip-text bg-linear-to-r from-primary-turquoise to-secondary-sand">
-                            Geleceği Yazdır.
+                            Geleceğe Katkı
                         </span>
                     </h1>
                     <p className="text-xl text-neutral-600 dark:text-neutral-300 max-w-lg leading-relaxed">
-                        Side Antik Kenti'nden toplanan plastik atıkları, üniversite laboratuvarlarında dönüştürüyor ve 3D yazıcılarla çocuklara oyuncak olarak yeniden hayat veriyoruz.
+                        Side Antik Kenti'nden toplanan plastik atıkları, üniversite laboratuvarlarında dönüştürüyor ve 3D yazıcılarla çocuklara ürün olarak yeniden hayat veriyoruz.
                     </p>
 
                     <div className="flex flex-wrap gap-4">
@@ -88,7 +88,7 @@ export default function HeroSection() {
 
                                 {/* Filament / Toy Being Printed */}
                                 <div className="absolute bottom-10 w-32 h-32 bg-primary-turquoise/10 border-2 border-primary-turquoise rounded-lg flex items-center justify-center backdrop-blur-sm">
-                                    <span className="text-primary-turquoise font-bold">OYUNCAK</span>
+                                    <span className="text-primary-turquoise font-bold">ÜRÜN</span>
                                 </div>
                             </div>
 
